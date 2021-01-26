@@ -18,3 +18,8 @@ fields:
   - type: text
     name: icon
     label: icon
+- name: fff
+  type: include
+  config: {}
+  template: author
+  label: fff
