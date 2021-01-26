@@ -3,7 +3,7 @@ label: Author
 hide_body: false
 fields:
 - type: text
-  name: image
+  name: image1234
   label: image
 - type: text
   name: email
