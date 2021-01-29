@@ -19,14 +19,9 @@ fields:
     name: icon
     label: icon
 - name: list
-  type: select
-  default: []
+  type: list
   config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: configuration
-      file: 
-      path: 
+    use_select: false
+    min: 
+    max: 
   label: list
