@@ -22,3 +22,12 @@ fields:
   type: tag_list
   default: []
   label: tag
+- name: testarea
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: testarea
