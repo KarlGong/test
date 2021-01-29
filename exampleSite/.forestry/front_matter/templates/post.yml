@@ -22,10 +22,3 @@ fields:
   config: {}
   template: post
   label: author1
-- name: list
-  type: list
-  config:
-    use_select: false
-    min: 
-    max: 
-  label: list
