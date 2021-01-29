@@ -18,3 +18,15 @@ fields:
   - type: text
     name: icon
     label: icon
+- name: list
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: configuration
+      file: 
+      path: 
+  label: list
