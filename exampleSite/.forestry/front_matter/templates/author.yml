@@ -31,5 +31,14 @@ fields:
     schema:
       format: markdown
   label: testarea
+- name: tttttt
+  type: blocks
+  label: tttttt
+  template_types:
+  - fdsafsa
+  - post
+  config:
+    min: 
+    max: 
 pages:
 - exampleSite/data/aaaaa.md
