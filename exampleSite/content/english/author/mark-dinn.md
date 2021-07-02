@@ -11,4 +11,4 @@ social:
   link: "#"
 
 ---
-Lfds[video-f7e8aeb4b5.mp4](/images/video-f7e8aeb4b5.mp4 "video-f7e8aeb4b5.mp4")a
+[video-f7e8aeb4b5.mp4](/images/video-f7e8aeb4b5.mp4 "video-f7e8aeb")
